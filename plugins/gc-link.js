@@ -54,7 +54,7 @@ const handler = async (m, {conn, args}) => {
            title: tradutor.texto1[0],
            body: '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓',
            previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-           sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}
+           sourceUrl: `https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT`}
            }
         }
       );  
