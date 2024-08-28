@@ -34,8 +34,8 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
 ┃⭐ Creador : 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧
-┃📞 Wa.me/595984303784
-┃https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+┃📞 Wa.me/51978144868
+┃https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 

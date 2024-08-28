@@ -31,9 +31,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓
-  ${tradutor.texto1[2]} +595984303784
-  ${tradutor.texto1[3]} https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
+  ${tradutor.texto1[1]} 𝐍𝐀𝐒𝐀 𝐁𝐎𝐓
+  ${tradutor.texto1[2]} +51978144868
+  ${tradutor.texto1[3]} https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT` },
+    document: { url: `https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT",
+        mediaUrl: "https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓",
+        title: "𝐍𝐀𝐒𝐀 𝐁𝐎𝐓",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT",
+        sourceUrl: "https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60",
       },
     },
     caption: info,
